@@ -63,13 +63,16 @@ nav ul li{
 nav{
     border: 2px solid #eee;
     border-radius: 2px;
+    position: sticky;
+    top:0;
+    background-color:white;
 }
-/*
+
 .more-articles{
-    display:inline-block;
+    margin-top: -70px;
 
 }
-*/
+
 
 .section-one, .section-two{
     width: 200px;
